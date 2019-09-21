@@ -3,7 +3,7 @@ This file is a module that has steady-state equilibrium functions for
 the household consumptions c1 and c2 as well as the marginal utility of
 consumption in the two-period-lived overlapping generations model.
 '''
-
+#SUPPPP
 # Put import commands below here
 
 
